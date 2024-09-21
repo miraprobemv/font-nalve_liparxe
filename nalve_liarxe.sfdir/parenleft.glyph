@@ -1,0 +1,20 @@
+StartChar: parenleft
+Encoding: 40 40 75
+Width: 320
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 34 m 4
+ 50 646 l 4
+ 50 747 97 830 240 830 c 0
+ 270 830 l 1
+ 270 730 l 1
+ 221 730 180 711 180 660 c 6
+ 180 20 l 6
+ 180 -31 221 -50 270 -50 c 1
+ 270 -150 l 1
+ 240 -150 l 0
+ 97 -150 50 -67 50 34 c 4
+EndSplineSet
+EndChar

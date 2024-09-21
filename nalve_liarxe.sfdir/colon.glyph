@@ -1,0 +1,21 @@
+StartChar: colon
+Encoding: 58 58 62
+Width: 230
+Flags: HW
+HStem: 0 120<50 180>
+VStem: 50 130<0 120>
+LayerCount: 2
+Fore
+SplineSet
+50 670 m 1
+ 180 670 l 1
+ 180 550 l 25
+ 50 550 l 25
+ 50 670 l 1
+50 120 m 1
+ 180 120 l 1
+ 180 0 l 25
+ 50 0 l 25
+ 50 120 l 1
+EndSplineSet
+EndChar

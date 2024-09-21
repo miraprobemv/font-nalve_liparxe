@@ -1,0 +1,24 @@
+StartChar: slash
+Encoding: 47 47 70
+Width: 372
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+140 190 m 5xd8
+ 140 285 l 5
+ 220 485 l 5
+ 220 390 l 5
+ 140 190 l 5xd8
+EndSplineSet
+Fore
+SplineSet
+114 0 m 5xd8
+ 10 0 l 1
+ 10 15 l 1
+ 256 670 l 1
+ 362 670 l 5
+ 362 655 l 5
+ 114 0 l 5xd8
+EndSplineSet
+EndChar

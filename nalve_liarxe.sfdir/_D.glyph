@@ -1,0 +1,11 @@
+StartChar: D
+Encoding: 68 68 37
+Width: 530
+Flags: W
+HStem: 0 100<170 200 330 360> 650 20G<37 173 197 333 357 493>
+VStem: 40 130<102.115 668> 200 130<100 668> 360 130<102.115 668>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+Refer: 4 100 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,10 @@
+StartChar: U
+Encoding: 85 85 51
+Width: 380
+Flags: HW
+HStem: -5 100<161.962 218.442> 575 100<162.058 217.942>
+VStem: 30 130<97.1152 255 430 572.885> 221 129<97.1152 572.885>
+LayerCount: 2
+Fore
+Refer: 9 117 N 1 0 0 1 0 0 2
+EndChar

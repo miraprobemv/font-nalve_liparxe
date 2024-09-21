@@ -1,0 +1,23 @@
+StartChar: quotedbl
+Encoding: 34 34 82
+Width: 370
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+200 650 m 29xe4
+ 200 790 l 17
+ 200 830 l 1
+ 310 830 l 1
+ 310 790 l 9
+ 270 650 l 29
+ 200 650 l 29xe4
+90 650 m 25xe8
+ 50 790 l 17
+ 50 830 l 1
+ 160 830 l 1
+ 160 790 l 9
+ 160 650 l 25
+ 90 650 l 25xe8
+EndSplineSet
+EndChar
